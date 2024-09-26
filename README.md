@@ -1,4 +1,4 @@
-# chatgptvoiceassistant
+# chat-gpt-voice-assistant
 RASPBERRYPI-CHAT-GPT-AI-VOICE-ASSISTANT
 
 Installation
